@@ -31,7 +31,7 @@ This application is a demonstration of a Visa card UI built using Flutter. It pr
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/visa-card-ui.git
+    git clone https://github.com/DhruvChaurasia9403/visa-card-ui.git
     ```
 
 2. **Navigate to the project directory:**
@@ -63,12 +63,11 @@ After installation, run the app on your preferred device or emulator to see the 
 
 Include screenshots of your app to provide users with a visual overview of the interface:
 
-![Visa Card UI](path/to/screenshot.png)
+![Visa Card UI](howItLooks/appImage.png)
 
 ## Dependencies
 
 - [flutter](https://flutter.dev)
-- [cupertino_icons](https://pub.dev/packages/cupertino_icons)
 - [google_fonts](https://pub.dev/packages/google_fonts)
 
 ## Contributing
